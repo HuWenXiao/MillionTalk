@@ -1,0 +1,338 @@
+<!-- version 1.180311 
+
+节点格式：所有可能存在的标签类型
+
+<chapter id = "1">  章节以及章节ID
+	<scene id = "1"> 		场景以及场景ID。场景划分以是否更换场景背景立绘为标准
+		<info 
+			bkgrdname = "xxx" 
+			musicpath = "xxx"		每个场景第一个子节点指定该场景的各项参数，包括背景和初始BGM等
+			musicvolume = "1" 
+			musicttl = "0"/> 		ttl默认为0
+		/>
+		
+		<sentence id = "1"> 		单句对话以及对话ID
+			<speaker name = "X" /> 		说出这句话的角色名
+			<position value = "0" /> 		说话者的立绘位置，0为中，-1为左，1为右
+			<leftpic name = "xxx/xxx/xxx/xxx" />
+			<midpic name = "xxx/xxx/xxx/xxx" /> 		左、中、右位置的角色立绘资源
+			<rightpic name = "xxx/xxx/xxx/xxx" />
+			<content value = "xxxxxx" /> 		该句对话内容
+			<music path = "xxx" volume = "x" ttl = "0"/>   句子节点下使用，在对应位置开始播放音乐，volume表示音量，ttl为播放时长，为0时只播放一次，为-1时循环播放，此时需用空节点手动停止播放
+			<sound path = "xxx" volume = "x" />   句子节点下使用，在对应位置播放一次声音文件，volume表示音量
+		</sentence>
+
+		句子内标签不使用时表示该标签内容清空。使用标签但值留空以表示内容与上一语句相同
+
+		
+		<sentence id = "2">   章节结束节点的其他子节点留空，新增end节点以标示结束
+			<end type = "1" value = "2" />    
+			Type值表示跳转类型，1表示场景终点，2表示章节终点，Value值表示跳转的目标章节或场景的Id 
+		</sentence>
+
+	</scene>
+</chapter>
+
+计划中，待追加的标签: 
+	<switch>    句子节点下使用，开启选择支，每个选择支跳转至value值对应的句子节点
+		<case value = "1" content = "xxxxxx" />
+		<case value = "2" content = "xxxxxx" />
+		<case value = "3" content = "xxxxxx" />
+	</switch>
+
+	<flagsave id = "1" value = "1" />	句子节点下使用，在选择支跳转后提示游戏保存该flag和具体数值
+	<animation left = "xx" mid = "xx" right = "xx" />  句子节点下使用，令立绘播放预设的一次性的动画
+	<sprite left = "xx" mid = "xx" right = "xx" />  句子节点下使用，在对应位置播放预设的sprite特效
+	<afteffect name = "xxx" />  句子节点下使用，对整体场景播放预设的后期特效，需要通过空节点手动关闭特效
+	
+-->
+
+<head>
+	<chapter id = "1">  
+		<scene id = "1">  
+			<info bkgrdname = "street01" musicpath = "Sound/BGM/daily01" musicvolume = "0.4" musicttl = "0"/>  
+			
+			<sentence id = "1"> 
+				<speaker name = "Mirai" />   
+				<position value = "0"/> 
+				<midpic name = "Pictures/Character/Mirai/001" />
+				<content value = "jhsrtjdtj" />
+				<!--<music path = "Sound/BGM/daily01" volume = "0.4" ttl = "0"/>-->
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker name = "Shizuka" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<content value = "drtjdrjdjtdfj" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "Do you know that..." />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "Well..." />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "5">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "jklglkerjglejgkgjkrgjklegjkeg" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "6">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "ajgkljlagjagjkljgkljglkejrgklm" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "7">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "aglkjwgkljgkl" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "8">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "qewroiqpoetiopqwtipotioptiqopipoiqpoiopeqyioperqypoieyopqrypqoyipoeyqiqpyoiqropyiqpoy" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "9">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "ipoeyqiqpyoiqropyiqpoy" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "10">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "qewroiqpoetiopqwtipotioptiqiqrkljljilhlhlgopyiqpo" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "11">
+				<speaker name = " Shizuka " />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "rtyurdhfdhfgntn" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "12">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "qpoetiopqwtipotiopyipoeyqiqpyoiq" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "13">
+				<speaker name = " Mirai " />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "astqwyuyujbhuggf" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "14">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "pqwtipotioptiqopirypqoyipoeyqiqpyoiqropyiqpoy" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "15">
+				<speaker name = " Shizuka " />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "hsdrsjdtjjdtfh" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "16">
+				<speaker name = " Mirai " />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "ewroiqpoetiopqwtipotioptiqopirypqoyipoeyqiqp" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "17">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "pqwtipotioptiqopirypqoyipoeyqiqpyoiqro" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "18">
+				<speaker name = "Tsubasa" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "opirypqoyipoeyqiqpyoiqropyiqpoypyiq" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "19">
+				<speaker name = "Tsubasa" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<content value = "pqwtipotioptiqopirypqoyipoeyqiqpyoiqropyiqpoypyiqpoy(scene1end)" />
+				<position value = "0" />
+			</sentence>
+			
+			<sentence id = "20">
+				<end type = "1" value = "2" /> 
+			</sentence>
+			
+
+			
+		</scene>
+		
+		<scene id = "2"> 
+			<info bkgrdname = "square01" />
+		
+			<sentence id = "1"> 
+				<speaker name = " Shizuka " />  
+				<midpic name = "Pictures/Character/Shizuka/001" />  
+				<content value = "2:Hello! It is nice to meet you." />
+				<position value = "0" />
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker name = " Shizuka " />
+				<midpic name = "Pictures/Character/Shizuka/001" />
+				<content value = "2:XXXXXXXXXXXXXXXXXXXX!" />
+				<position value = "0" />
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker name = " Mirai " />
+				<leftpic name = "Pictures/Character/Shizuka/001" />
+				<rightpic name = "Pictures/Character/Mirai/001" />
+				<content value = "2:XXXXXXXXXXXXXXXXXXXXXXX." />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "2:XXXXXXXXXXXXXXXX" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "5">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "2:XXXXXXXXXXXXXXXXXXXXXXX." />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "6">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "2:XXXX" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "7">
+				<speaker name = " Shizuka " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "2:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "8">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "2:XXXXXXXXXXXXXXXXXXXXXXX." />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "9">
+				<end type = "1" value = "3" />
+			</sentence>
+			
+		</scene>
+		
+		<scene id = "3"> 
+			<info bkgrdname = "room02" />
+		
+			<sentence id = "1"> 
+				<speaker name = "Tsubasa" />  
+				<leftpic name = "Pictures/Character/Tsubasa/001" />  
+				<content value = "3:XXXXXXXXXXXXXXXX." />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Mirai/001" />
+				<content value = "3:XXXXXXXXXXXXXXXXXXXX!" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "3:XXXXXXXXXXXXXXXXXXXXXXX." />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker name = " Mirai " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "3:XXXXXXXXXXXXXXXX" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "5">
+				<speaker name = "Tsubasa" />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "3:XXXXXXXXXXXXXXXX" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "6">
+				<end type = "1" value = "1" />
+			</sentence>
+		</scene>
+		
+	</chapter>
+</head>

@@ -1,0 +1,1945 @@
+<head>
+	<intro author = "Unknown" 
+				 date = "2018.03.02" 
+				 info = "2ch的匿名接龙文，觉得很有意思就截下来制成了该剧本。"/>
+  <chapter id="1">
+    <scene id="1">
+      <info bkgrdname="street01" musicpath="Sound/BGM/daily01" musicvolume="0.4" musicttl="0" />
+      <sentence id="1">
+        <speaker name="未来on電話" />
+        <position value="0" />
+        <midpic name="Pictures/Character/Mirai/001" />
+        <content value="とーにーかーくー、静香ちゃんが大変なんです！" />
+      </sentence>
+      <sentence id="2">
+        <speaker name=" P " />
+        <midpic name="" />
+        <content value="静香が？また急な、熱でも出したか？" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="3">
+        <speaker name=" 未来 " />
+        <midpic name="" />
+        <content value="それは違うんですけど、なんかレッスン場に来たら変なんです！" />
+        <position value="0" />
+      </sentence>
+      <sentence id="4">
+        <speaker name=" P " />
+        <midpic name="" />
+        <content value="変？そーいや今日百合子とお前とレッスンだったっけ……とりあえず行ってみるから、静香と一緒に待っててくれ" />
+        <position value="1" />
+      </sentence>
+      <sentence id="5">
+        <speaker name=" P " />
+        <content value="静香が変って……まさか急にうどん派から冷麺派に鞍替えでもしたか？まあいいか、美咲ちゃーん、レッスン場行ってくるねー" />
+        <position value="1" />
+      </sentence>
+      <sentence id="6">
+        <speaker name=" 美咲 " />
+        <content value="はーい！" />
+        <position value="1" />
+      </sentence>
+      <sentence id="7">
+        <speaker name=" 杏奈 " />
+        <leftpic name="Pictures/Character/Anna/001" />
+        <content value="……百合子さん、いるよね？杏奈も行く" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="8">
+        <end type="1" value="2" />
+      </sentence>
+    </scene>
+    <scene id="2">
+      <info bkgrdname="street01" />
+      <sentence id="1">
+        <speaker name=" P " />
+        <content value="着いたわけだが" />
+        <position value="0" />
+      </sentence>
+      <sentence id="2">
+        <speaker name=" 杏奈 " />
+        <leftpic name="Pictures/Character/Anna/001" />
+        <content value="……着いた、けど" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="P" />
+        <leftpic name="" />
+        <content value="なんじゃこりゃ" />
+        <position value="1" />
+      </sentence>
+      <sentence id="4">
+        <speaker name=" 未来 " />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Mirai/001" />
+        <content value="あ、プロデューサーさん！" />
+        <position value="1" />
+      </sentence>
+      <sentence id="5">
+        <speaker name=" 百合子 " />
+        <leftpic name="Pictures/Character/Yuriko/001" />
+        <rightpic name="" />
+        <content value="大変ですよプロデューサーさん、未知との遭遇なんです！" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="6">
+        <speaker name=" P " />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="大変なのに目を輝かせて言うのかお前は" />
+        <position value="0" />
+      </sentence>
+      <sentence id="7">
+        <speaker name=" 杏奈 " />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <content value="百合子さんがこうなるってことは……SF?コズミックホラー？" />
+        <position value="1" />
+      </sentence>
+      <sentence id="8">
+        <speaker name=" 百合子 " />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="SF！" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="9">
+        <speaker name=" 杏奈 " />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="……把握" />
+        <position value="1" />
+      </sentence>
+      <sentence id="10">
+        <speaker name=" P " />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="で、その静香なんだが" />
+        <position value="2" />
+      </sentence>
+      <sentence id="11">
+        <speaker name=" 未来 " />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <rightpic name="" />
+        <content value="そうなんですよ、静香ちゃんがこれで" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="12">
+        <speaker name=" 静香？ " />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <rightpic name="" />
+        <content value="なんなんですかここ……Machicoさんとご飯行くはずなのになんで未来ちゃん達が……なんか私最上ちゃんになってるしぃ……" />
+        <position value="0" />
+      </sentence>
+      <sentence id="13">
+        <speaker name=" P " />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <content value="まちこ" />
+        <position value="2" />
+      </sentence>
+      <sentence id="14">
+        <speaker name=" 杏奈 " />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <content value="さん？" />
+        <position value="1" />
+      </sentence>
+      <sentence id="15">
+        <speaker name=" 百合子 " />
+        <leftpic name="Pictures/Character/Yuriko/001" />
+        <midpic name="" />
+        <rightpic name="" />
+        <content value="静香の知り合いですか？" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="16">
+        <speaker name=" 未来 " />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Mirai/001" />
+        <content value="Machi……知らない人ですね" />
+        <position value="1" />
+      </sentence>
+      <sentence id="17">
+        <speaker name=" 静香？ " />
+        <midpic name="" />
+        <content value="プロデューサーさんですか？助けてください～！" />
+        <position value="0" />
+      </sentence>
+      <sentence id="18">
+        <speaker name=" P " />
+        <midpic name="" />
+        <content value="いやいや、俺にどうしろと、てかお前……静香か？" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="19">
+        <speaker name=" 静香？ " />
+        <midpic name="" />
+        <content value="最上ちゃんじゃないのに未来ちゃんが信じてくれないんです～！" />
+        <position value="0" />
+      </sentence>
+      <sentence id="20">
+        <speaker name=" 未来 " />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Mirai/001" />
+        <content value="あれ、本当だったんだ、てっきり頭でも打ったのかなって" />
+        <position value="1" />
+      </sentence>
+      <sentence id="21">
+        <speaker name=" P " />
+        <midpic name="" />
+        <rightpic name="" />
+        <content value="それはいつものおまゲフンゲフン" />
+        <position value="2" />
+      </sentence>
+      <sentence id="22">
+        <speaker name=" 杏奈 " />
+        <leftpic name="Pictures/Character/Anna/001" />
+        <midpic name="" />
+        <rightpic name="" />
+        <content value="…なんか百合子さん、説明" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="23">
+        <speaker name=" 百合子 " />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Yuriko/001" />
+        <content value="うん、説明しよう！今日の朝一、レッスン場に来たらそこには静香の姿が、自分を『あずさ』と名乗る静香は別の世界から来たと言い張り……" />
+        <position value="1" />
+      </sentence>
+      <sentence id="24">
+        <speaker name=" P " />
+        <midpic name="" />
+        <content value="……静香、病院行くか？" />
+        <position value="1" />
+      </sentence>
+      <sentence id="25">
+        <speaker name=" 静香？ " />
+        <midpic name="" />
+        <content value="だから本当に私は最上ちゃんじゃなくて！！" />
+        <position value="0" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="" />
+        <content value="あのあの、プロデューサーさん、静香ちゃんの言うこと、信じてあげましょう！" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="27">
+        <speaker name="杏奈" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <position value="1" />
+        <content value="……未来？" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="なんとなくですけど、本当だと思うんです！" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="P" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="お前さっきまで信じてなかったよな" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="それはころ……面白かったから～でへへ～" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="静香？" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="未来ちゃん！？" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="P" />
+        <midpic name="" />
+        <position value="-1" />
+        <content value="と、ともかく。えっと、あずささん？こっちのあずささんと被るな……フルネームは？" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="静香？" />
+        <midpic name="" />
+        <position value="0" />
+        <content value="田所あずさ、です……" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="P" />
+        <midpic name="" />
+        <position value="-1" />
+        <content value="あーずん？" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="杏奈" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <position value="1" />
+        <content value="……センスある" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="百合子" />
+        <leftpic name="Pictures/Character/Yuriko/001" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="あーずんでいいと思います！" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="あーずん？" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="ちょっとちょっと、待ってください！それになっちゃうんですか！" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="えー、私はころあずって感じです！" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="未来ちゃん……あの、私普段もころあずって呼ばれてたので、そっちの方がありがたいです……" />
+      </sentence>
+      <sentence id="40">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="よかったね、ころあず……さん！" />
+      </sentence>
+      <sentence id="41">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="うん……ありがとう未来ちゃん" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="百合子" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="1" />
+        <content value="しかし、静香ところあずさんの入れ替わり、ですか" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="？？" />
+        <leftpic name="Pictures/Character/Tsumugi/001" />
+        <position value="-1" />
+        <content value="事件のようですね！" />
+        <music path="Sound/BGM/comical01" volume="0.5" ttl="0" />
+      </sentence>
+      <sentence id="44">
+        <speaker name="P" />
+        <leftpic name="" />
+        <position value="1" />
+        <content value="この声は！" />
+      </sentence>
+      <sentence id="45">
+        <speaker name="杏奈" />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <position value="1" />
+        <content value="……紬、さん？" />
+      </sentence>
+      <sentence id="46">
+        <speaker name="P" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <position value="2" />
+        <content value="いや、それにしてはアホくさい声だ、なんか嫌な予感がする" />
+      </sentence>
+      <sentence id="47">
+        <speaker name="紬？" />
+        <leftpic name="Pictures/Character/Tsumugi/001" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="この「ミリオン声優入れ替わり事件」私白石紬……担当声優南早紀に任せてください！" />
+      </sentence>
+      <sentence id="48">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="1" />
+        <content value="だめだー！一番ダメな人が来たー！" />
+      </sentence>
+      <sentence id="49">
+        <speaker name="百合子" />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Yuriko/001" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="へ？" />
+      </sentence>
+      <sentence id="50">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="1" />
+        <content value="この人私のこと格下に見てくるんですよ！『田所さんって普段何食べて生きてるんですかw』とか！" />
+      </sentence>
+      <sentence id="51">
+        <speaker name="P" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="2" />
+        <content value="うわぁ" />
+      </sentence>
+      <sentence id="52">
+        <speaker name="唐揚げ" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="違います違います！ていうかその話は半年前に解決しましたよね！" />
+      </sentence>
+      <sentence id="53">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Mirai/001" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="えっと、ころあず…さんと南ちゃんも知り合いなんですか？" />
+      </sentence>
+      <sentence id="54">
+        <speaker name="唐揚げ" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="というか仕事仲間、ですね" />
+      </sentence>
+      <sentence id="55">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="1" />
+        <content value="ミリオンライブ、って作品で声優をしてて…" />
+      </sentence>
+      <sentence id="56">
+        <speaker name="杏奈" />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Anna/001" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="……声優さん？" />
+      </sentence>
+      <sentence id="57">
+        <speaker name="百合子" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Yuriko/001" />
+        <position value="1" />
+        <content value="カッコいいです！" />
+      </sentence>
+      <sentence id="58">
+        <speaker name="唐揚げ" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="でしょ？(ドヤァ)" />
+      </sentence>
+      <sentence id="59">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="1" />
+        <content value="この人は……それで、私は最上ちゃんの役なんです！" />
+      </sentence>
+      <sentence id="60">
+        <speaker name="唐揚げ" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="私は紬の役です" />
+      </sentence>
+      <sentence id="61">
+        <speaker name="P" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <position value="2" />
+        <content value="？？？？？？" />
+      </sentence>
+      <sentence id="62">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="えっと、つまりこっちの世界での出来事がわた……ころあずの世界ではゲームとか漫画になってて、声を当ててるってことだと思う！ます！" />
+      </sentence>
+      <sentence id="63">
+        <speaker name="杏奈" />
+        <leftpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <position value="1" />
+        <content value="……パラレルワールド、だね？" />
+      </sentence>
+      <sentence id="64">
+        <speaker name="百合子" />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Yuriko/001" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="それで複数の人と入れ替わりが起きてる" />
+      </sentence>
+      <sentence id="65">
+        <speaker name="P" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="ころあずさん、そっちのミリオンライブ？の声優さんは全部で" />
+      </sentence>
+      <sentence id="66">
+        <speaker name="ころあず" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="0" />
+        <content value="39人です、先輩を入れると52人" />
+      </sentence>
+      <sentence id="67">
+        <speaker name="P" />
+        <midpic name="" />
+        <position value="-1" />
+        <content value="ちょうど、か。杏奈百合子未来は無事として、他にも何か起きてそうだな" />
+      </sentence>
+      <sentence id="68">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="" />
+        <position value="-1" />
+        <content value="そうだ！ころあず、さんも歌上手いんですか？" />
+      </sentence>
+      <sentence id="69">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <position value="0" />
+        <content value="え？えっと" />
+      </sentence>
+      <sentence id="70">
+        <speaker name="唐揚げ" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Tsumugi/001" />
+        <position value="1" />
+        <content value="上手だよ、すごく" />
+      </sentence>
+      <sentence id="71">
+        <speaker name="ころあず" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="あなた勝手なことどんどん言いますね！" />
+      </sentence>
+      <sentence id="72">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="私、ころあずの歌聴きたい！" />
+      </sentence>
+      <sentence id="73">
+        <speaker name="杏奈" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="Pictures/Character/Anna/001" />
+        <position value="1" />
+        <content value="……未来、さん、取れてる" />
+      </sentence>
+      <sentence id="74">
+        <speaker name="百合子" />
+        <leftpic name="" />
+        <midpic name="Pictures/Character/Yuriko/001" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="それに外側は静香だから静香の歌にしかならないよ…" />
+      </sentence>
+      <sentence id="75">
+        <speaker name="未来" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="でもでも、ころあずさんがどんな歌い方するのか見てみたいし……" />
+      </sentence>
+      <sentence id="76">
+        <speaker name="P" />
+        <leftpic name="" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="2" />
+        <content value="そんなにころあずさんに迷惑かけるなよお前ら～。とりあえず南さんところあずさんは一度事務所に……南さん？" />
+      </sentence>
+      <sentence id="77">
+        <speaker name="唐揚げwith唐揚げ" />
+        <rightpic name="Pictures/Character/Tsumugi/001" />
+        <position value="1" />
+        <content value="なんでふか～？" />
+      </sentence>
+      <sentence id="78">
+        <speaker name="P" />
+        <rightpic name="" />
+        <position value="0" />
+        <content value="唐揚げ？" />
+      </sentence>
+      <sentence id="79">
+        <speaker name="杏奈" />
+        <leftpic name="Pictures/Character/Anna/001" />
+        <midpic name="" />
+        <rightpic name="" />
+        <position value="-1" />
+        <content value="……いつの間に" />
+      </sentence>
+      <sentence id="80">
+        <end type="1" value="3" />
+      </sentence>
+    </scene>
+    <scene id="3">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name="P" />
+        <position value="2" />
+        <content value="さて、杏奈百合子と唐揚げを事務所に置いて来たわけだが" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="ころあず" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="0" />
+        <content value="プロデューサーさんも南ちゃんのこと唐揚げってよぶんですね" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="P" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="……まさか" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="ころあず" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="0" />
+        <content value="はい" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="-1" />
+        <content value="お前を唐揚げにしてやろうかぁ！！！" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="0" />
+        <content value="…………" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="ころあずさん、その発言は否定して欲しかった" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="まあ、とにかく、アイドル全員に連絡を取ったところ数名「様子が変」「タガが外れたよう」との連絡が来た。まずはここだな" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="ころあず" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="0" />
+        <content value="カラオケ、ですか？" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="P" />
+        <midpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="ウィ" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="-1" />
+        <content value="えっと、琴葉ちゃ、さん、エレナさん、翼、恵美さんがいますね！連絡して来たのはエレナさんです！" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="2" />
+        <content value="この中の数人が入れ替わり被害に……" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="琴葉？" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="1" />
+        <content value="ねえねえ、次はこれ！この曲歌ってエレナ！！！！！！" />
+        <music path="Sound/BGM/comical02" volume="0.5" ttl="0" />
+      </sentence>
+      <sentence id="14">
+        <speaker name="エレナ" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="コトハ、様子がおかしいヨ……" />
+      </sentence>
+      <sentence id="15">
+        <speaker name="翼？" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="うち次はこれ歌うけぇ、ゆきねぇと一緒に歌お？" />
+      </sentence>
+      <sentence id="16">
+        <speaker name="エレナ" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="だからゆきねぇって誰よ……お、プロデューサー！いやーまいったまいった、琴葉の様子がおかしくてさ" />
+      </sentence>
+      <sentence id="17">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="お前の隣にいるメイクが異様に濃い翼もな" />
+      </sentence>
+      <sentence id="18">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="はいとりあえず様子のおかしい二人正座" />
+      </sentence>
+      <sentence id="19">
+        <speaker name="琴葉？" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="1" />
+        <content value="エレナ～?" />
+      </sentence>
+      <sentence id="20">
+        <speaker name="エレナ" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="正座ダヨ、コトハ" />
+      </sentence>
+      <sentence id="21">
+        <speaker name="琴葉？" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="1" />
+        <content value="はい！" />
+      </sentence>
+      <sentence id="22">
+        <speaker name="翼？" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="うちも？" />
+      </sentence>
+      <sentence id="23">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="ウィ" />
+      </sentence>
+      <sentence id="24">
+        <speaker name="翼" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="大変不本意だが正座することにする" />
+      </sentence>
+      <sentence id="25">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Elena/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="なにその言い回し" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="ま……翼と琴葉さんも入れ替わり、ですね？プロデューサーさん" />
+      </sentence>
+      <sentence id="27">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="だな、えっと、ころあずさん？" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="種ちゃんさんMachicoさん……なんで入れ替わってるのに普通にできてるんですか！" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="種ちゃん" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="1" />
+        <content value="立ちくらみがしたと思ったらここにいて、エレナが隣にいたから……" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="Machico" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="起きたらツバッティーじゃったけぇ、折角じゃしこのままでいることにした" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="呑気ですね……" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="なるほど、入れ替わっててもいつ入れ替わったかとかには差がある……あとミリオン声優？の皆さんが恐ろしくア……呑気で基本的に順応する" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="アホって言ってもいいですよ？私以外そんなに間違ってないんで" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="Machico" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="うちも！？ならあずあずもじゃ！" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="Machicoさんよりは頭いいですー！" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="種ちゃん" />
+        <leftpic name="Pictures/Character/Shizuka/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="1" />
+        <content value="いや二人ともトントンでしょ" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="-1" />
+        <content value="うん……私もそう思います！" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="Machico" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="0" />
+        <content value="ん？" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Kotoha/001" />
+        <position value="2" />
+        <content value="種ちゃんさんとMachicoさんたちはあそこで放置で良さそうだな" />
+      </sentence>
+      <sentence id="40">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="1" />
+        <content value="いいんですか…" />
+      </sentence>
+      <sentence id="41">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="-1" />
+        <content value="Machicoはともかく種ちゃんはエレナPだからエレナ大丈夫かな……" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="2" />
+        <content value="ん、未来何か言ったか？" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <midpic name="Pictures/Character/Tsubasa/001" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="-1" />
+        <content value="い、いえなんでも！それより、次のところ行きましょう！" />
+      </sentence>
+      <sentence id="44">
+        <speaker name="P" />
+        <position value="2" />
+        <content value="あいあい、次はミルキーウェイのレッスンだな" />
+      </sentence>
+      <sentence id="45">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="-1" />
+        <content value="美希が！！！！" />
+      </sentence>
+      <sentence id="46">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="2" />
+        <content value="未来！？" />
+      </sentence>
+      <sentence id="47">
+        <speaker name="未来" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="-1" />
+        <content value="お、おっほん！とにかく行きますよ！ぴゅーん！" />
+      </sentence>
+      <sentence id="48">
+        <speaker name="P" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <position value="2" />
+        <content value="待て未来お前場所わからないだろ！ころあずさん行きましょう！" />
+      </sentence>
+      <sentence id="49">
+        <speaker name="ころあず" />
+        <leftpic name="Pictures/Character/Mirai/001" />
+        <rightpic name="Pictures/Character/Shizuka/001" />
+        <position value="1" />
+        <content value="は、はい……あの未来ちゃん、やっぱり『あの人』だよね……" />
+      </sentence>
+      <sentence id="50">
+        <end type="1" value="4" />
+      </sentence>
+    </scene>
+    <scene id="4">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name="未来" />
+        <position value="-1" />
+        <content value="美希！！！！！" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="千鶴" />
+        <content value="美希なら雑誌収録でいませんわ" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="朋花" />
+        <content value="それよりもプロデューサーさん～" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="P" />
+        <content value="二人は……" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="千鶴" />
+        <content value="はい、なにもありませんわ" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="ころあず" />
+        <content value="千鶴さんが野村さんになってたら……" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="未来" />
+        <content value="野村が倍！" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="紗代子？" />
+        <content value="やめて世界が終わる" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="P" />
+        <content value="紗代子！？" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="昴？" />
+        <content value="プロデューサーさん～私も入れ替わっちゃってて……" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="P" />
+        <content value="昴もか、確かに口調がいつもと違……なんだこの色気！" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="ころあず" />
+        <content value="あーこれゆっけさんですね、既婚者の色気だ" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="P" />
+        <content value="え、なに、既婚者いるの？" />
+      </sentence>
+      <sentence id="14">
+        <speaker name="ころあず" />
+        <content value="はい、ミリオンだと昴くん役のゆっけさんと野村さんが" />
+      </sentence>
+      <sentence id="15">
+        <speaker name="P" />
+        <content value="野村ってのは" />
+      </sentence>
+      <sentence id="16">
+        <speaker name="ゆっけ" />
+        <content value="千鶴ちゃんの役の人ですね" />
+      </sentence>
+      <sentence id="17">
+        <speaker name="P" />
+        <content value="千鶴が人妻……やべえすごいエロそう" />
+      </sentence>
+      <sentence id="18">
+        <speaker name="紗代子？" />
+        <content value="そんなことないですよただのうるさいパリピです" />
+      </sentence>
+      <sentence id="19">
+        <speaker name="P" />
+        <content value="だから紗代子お前どうした！" />
+      </sentence>
+      <sentence id="20">
+        <speaker name="朋花" />
+        <content value="どうやら、紗代子さんも入れ替わっているようですね～" />
+      </sentence>
+      <sentence id="21">
+        <speaker name="ころあず" />
+        <content value="ベイせん……" />
+      </sentence>
+      <sentence id="22">
+        <speaker name="ゆっけ" />
+        <content value="紗代子ちゃんの顔だから怖くない！" />
+      </sentence>
+      <sentence id="23">
+        <speaker name="紗代子？" />
+        <content value="だから怖い言うな" />
+      </sentence>
+      <sentence id="24">
+        <speaker name="ゆっけ" />
+        <content value="でもどうしましょう～" />
+      </sentence>
+      <sentence id="25">
+        <speaker name="ころあず" />
+        <content value="Machicoさんとか南ちゃんも入れ替わってるんで、あとで会います？" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="ベイ" />
+        <content value="外見が紬ちゃんの南ちゃん……どうだった？" />
+      </sentence>
+      <sentence id="27">
+        <speaker name="ころあず" />
+        <content value="いつも通りでした、どこからか唐揚げを取り出して" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="ベイ" />
+        <content value="うんそれいつも通りだわ" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="ゆっけ" />
+        <content value="じゃあ私は事務所でMachicoちゃんたちと一緒にいますね" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="P" />
+        <content value="お願いします…あ、そうだゆっけさん" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="ゆっけ" />
+        <content value="はい？" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="P" />
+        <content value="一度でいいんで「あなた?」って" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="ころあず" />
+        <content value="人妻になに言ってるんですか！！！！" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="未来" />
+        <content value="あ、私も、私も！！！！！！あなたって！！！！あと「未来ちゃんだーいすき?」も！！！" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="P" />
+        <content value="ずるいぞ未来俺も！！！" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="ベイ" />
+        <content value="●しますよ" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="P" />
+        <content value="ごめんなさい（ドゲザー&#xD;）" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="未来" />
+        <content value="もうしません（ドゲザー）" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="朋花" />
+        <content value="……この圧、見習いたいですね～" />
+      </sentence>
+      <sentence id="40">
+        <speaker name="千鶴" />
+        <content value="いえ、見習う必要はないと思いますが" />
+      </sentence>
+      <sentence id="41">
+        <speaker name="ころあず" />
+        <content value="ゆっけさんは事務所に行ってもらって" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="未来" />
+        <content value="駒形ベイブレードプリキュアバトルドームクマじゃないゆりりん先輩は来るんですね！" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="ベイ" />
+        <content value="長い。ちょっとやりたいことがあって……" />
+      </sentence>
+      <sentence id="44">
+        <speaker name="P" />
+        <content value="で、会いに来たのが大人組とエミリーのところですか" />
+      </sentence>
+      <sentence id="45">
+        <speaker name="ベイ" />
+        <content value="すーじーさーん！！" />
+      </sentence>
+      <sentence id="46">
+        <speaker name="P" />
+        <content value="！？" />
+      </sentence>
+      <sentence id="47">
+        <speaker name="ころあず" />
+        <content value="そういうことですか！？ずるい私も！風花さん、「ころあずちゃん大好き」って言ってください！！！" />
+      </sentence>
+      <sentence id="48">
+        <speaker name="P" />
+        <content value="えぇ……" />
+      </sentence>
+      <sentence id="49">
+        <speaker name="このみ？" />
+        <content value="ちょっとちょっと、風花ちゃん困ってるでしょ！さーがーる！はい！さーがーる！そこでストップ！" />
+      </sentence>
+      <sentence id="50">
+        <speaker name="エミリー？" />
+        <content value="そんなこともできないの？" />
+      </sentence>
+      <sentence id="51">
+        <speaker name="P" />
+        <content value="莉緒さん、風花さん" />
+      </sentence>
+      <sentence id="52">
+        <speaker name="莉緒" />
+        <content value="あら、プロデューサーくん" />
+      </sentence>
+      <sentence id="53">
+        <speaker name="風花" />
+        <content value="助けてください～" />
+      </sentence>
+      <sentence id="54">
+        <speaker name="ころあず" />
+        <content value="ぐぬね" />
+      </sentence>
+      <sentence id="55">
+        <speaker name="ベイ" />
+        <content value="すーじ、風花さん、ゆりちゃん大好きって、それだけでいいので" />
+      </sentence>
+      <sentence id="56">
+        <speaker name="未来" />
+        <content value="私も……" />
+      </sentence>
+      <sentence id="57">
+        <speaker name="ころあず" />
+        <content value="未来ちゃんはいつも聞けるでしょ！" />
+      </sentence>
+      <sentence id="58">
+        <speaker name="P" />
+        <content value="莉緒さん、様子がおかしいっていうのは" />
+      </sentence>
+      <sentence id="59">
+        <speaker name="莉緒" />
+        <content value="このみねえさんとエミリーちゃんね" />
+      </sentence>
+      <sentence id="60">
+        <speaker name="風花さん" />
+        <content value="このみさんは何故かタガが外れたみたいになってて、エミリーちゃんは時折英語が出たら口が悪くなったり" />
+      </sentence>
+      <sentence id="61">
+        <speaker name="エミリー？" />
+        <content value="うう、エミリーを背負うどころかエミリーそのものだからあまりこういうことしたくないのに……素が出ちゃう……" />
+      </sentence>
+      <sentence id="62">
+        <speaker name="このみ？" />
+        <content value="私タガ外れてないから！ねえころあず、野村よりはマシでしょ！？" />
+      </sentence>
+      <sentence id="63">
+        <speaker name="ころあず" />
+        <content value="いい勝負だと思いますよたかみなさん" />
+      </sentence>
+      <sentence id="64">
+        <speaker name="たかみな" />
+        <content value="嘘！？" />
+      </sentence>
+      <sentence id="65">
+        <speaker name="未来" />
+        <content value="このみさんの外見でこうだと余計うるさいな……" />
+      </sentence>
+      <sentence id="66">
+        <speaker name="たかみな" />
+        <content value="……あれ！ぴょんじゃん" />
+      </sentence>
+      <sentence id="67">
+        <speaker name="未来？" />
+        <content value="！？" />
+      </sentence>
+      <sentence id="68">
+        <speaker name="P" />
+        <content value="未来！？" />
+      </sentence>
+      <sentence id="69">
+        <end type="1" value="5" />
+      </sentence>
+    </scene>
+    <scene id="5">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name="P" />
+        <content value="……未来？" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="たかみな" />
+        <content value="なに、言ってなかったの？自分も入れ替わってるって" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="ころあず" />
+        <content value="やっぱり……怪しいとは思ってましたよ……ぴょんさん！" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="未来？" />
+        <content value="な、なんのことかなー" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="たかみな" />
+        <content value="ゆうちゃ、言っちゃって" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="ゆうちゃ" />
+        <content value="言わないとたかみなが〇〇とか〇〇をミリオンラインでバラすって" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="ぴょん" />
+        <content value="ごめんなさーい！！！美希とか真くんとか近くで拝めるし知らないふりして色々役とかできるかなって思って黙ってました！" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="P" />
+        <content value="時折変になると思ったら……えっと、ぴょん？さん？" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="ぴょん" />
+        <content value="はいー、山崎はるかことぴょん吉ですー" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="ゆうちゃ" />
+        <content value="逆だし" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="P" />
+        <content value="さてさて" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="ころあず" />
+        <content value="たかみなさんたちを事務所に送って、ぴょんさんの正体もばれたところで" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="ぴょん" />
+        <content value="うう……" />
+      </sentence>
+      <sentence id="14">
+        <speaker name="ころあず" />
+        <content value="ていうか、Machicoさんの時にもうバレてましたよね！" />
+      </sentence>
+      <sentence id="15">
+        <speaker name="ぴょん" />
+        <content value="すぐにMachicoは事務所に行ったからバレないと思ったのなー！ころあずのバカ！" />
+      </sentence>
+      <sentence id="16">
+        <speaker name="ころあず" />
+        <content value="バカはぴょんさんの方でしょ！一大事なんだからちゃんとしてくださいよー！" />
+      </sentence>
+      <sentence id="17">
+        <speaker name="ぴょん" />
+        <content value="だって種ちゃんとか駒ちゃんも役得だったし……ころあずも風花さんに色々してもらおうとしてたじゃん" />
+      </sentence>
+      <sentence id="18">
+        <speaker name="ころあず" />
+        <content value="そ、それは……" />
+      </sentence>
+      <sentence id="19">
+        <speaker name=" " />
+        <content value="イチャイチャシヤガッテー！！" />
+      </sentence>
+      <sentence id="20">
+        <speaker name="P" />
+        <content value="！？この声は……星梨花？" />
+      </sentence>
+      <sentence id="21">
+        <speaker name="ぴょん" />
+        <content value="いや、もちょだね！" />
+      </sentence>
+      <sentence id="22">
+        <speaker name="ころあず" />
+        <content value="もちょですね" />
+      </sentence>
+      <sentence id="23">
+        <speaker name="P" />
+        <content value="も、もちょ？" />
+      </sentence>
+      <sentence id="24">
+        <speaker name="ぴょん" />
+        <content value="もちょはもちょ" />
+      </sentence>
+      <sentence id="25">
+        <speaker name="ころあず" />
+        <content value="星梨花ちゃんの声優で炒飯を7杯食べる子です" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="P" />
+        <content value="なにその新手の貴音さん" />
+      </sentence>
+      <sentence id="27">
+        <speaker name=" " />
+        <content value="(o・∇・o)電話だよー" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="ぴょん" />
+        <content value="あ、電話" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="ころあず" />
+        <content value="なんなんですかその着メロ" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="ぴょん" />
+        <content value="未来の着メロみたい……もしもし" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="Machico" />
+        <content value="はるにゃん！？" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="ぴょん" />
+        <content value="あ、Machicoじゃーん、なになに次の遊ぶ予定？" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="Machico" />
+        <content value="そうじゃなくて！大変！めぐみぃがゆきねぇになった！" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="ぴょん" />
+        <content value="へ？" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="ころあず" />
+        <content value="恵美ちゃんが……ゆきよさんに？" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="ぴょん" />
+        <content value="それもちょヤバイじゃん" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="Machico" />
+        <content value="そうなの！ゆきねぇが入れ替わるのと同時に育から『星梨花の様子が変』って連絡がきよって" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="ぴょん" />
+        <content value="プロデューサーさん大変ですよ、このままだと" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="ころあず" />
+        <content value="ゆきよさんがもちょの姿見になります" />
+      </sentence>
+      <sentence id="40">
+        <speaker name="P" />
+        <content value="待って姿見ってなに" />
+      </sentence>
+      <sentence id="41">
+        <speaker name="ぴょん" />
+        <content value="というか育ちゃんもヤバイじゃん" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="ころあず" />
+        <content value="……貞操の危機ですね" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="P" />
+        <content value="そんなに！？てか姿見って、ねえ姿見って！？！？" />
+      </sentence>
+      <sentence id="44">
+        <end type="1" value="6" />
+      </sentence>
+    </scene>
+    <scene id="6">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name="P" />
+        <content value="急いで星梨花たちの元に来たわけですが" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="ぴょん" />
+        <content value="よかった、ゆきねぇはいないみたい" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="P" />
+        <content value="姿見ってなんなん……" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="ころあず" />
+        <content value="えっと、星梨花ちゃんと育ちゃん、桃子ちゃんが一緒にレッスンを" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="星梨花？" />
+        <content value="ねえねえねえ、ももお姉ちゃんって言って！！！(o・∇・o)" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="育" />
+        <content value="も、ももおねえちゃん？" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="桃子" />
+        <content value="気持ち悪い" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="星梨花？" />
+        <content value="はぅあ～！！かぁいいよぉ……次は「お姉ちゃん、眠れないから一緒に寝ていい？」って(o・∇・o)" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="桃子" />
+        <content value="ちょっと！あ、お兄ちゃん！！星梨花さんが変なの！" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="P" />
+        <content value="セリカ……オレノセリカガ……ナンカニコンダカンジニ……" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="ころあず" />
+        <content value="いや元からあなたの星梨花ではないと思いますよ" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="ぴょん" />
+        <content value="うわぁ、もちょも煮込まれてる……" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="もちょ" />
+        <content value="あれ、ぴょんさんにころあず？やっほーもちょだよー(o・∇・o)" />
+      </sentence>
+      <sentence id="14">
+        <speaker name="ぴょん" />
+        <content value="うん、知ってる" />
+      </sentence>
+      <sentence id="15">
+        <speaker name="ころあず" />
+        <content value="それよりもちょ、すぐここから離れないと大変な" />
+      </sentence>
+      <sentence id="16">
+        <speaker name="恵美？" />
+        <content value="もちょ！！！！！！！" />
+      </sentence>
+      <sentence id="17">
+        <speaker name="志保？" />
+        <content value="もちぃ！！！！！！！" />
+      </sentence>
+      <sentence id="18">
+        <speaker name="ころあず" />
+        <content value="ひっ！" />
+      </sentence>
+      <sentence id="19">
+        <speaker name="ぴょん" />
+        <content value="公式もち天キター！！！！！" />
+      </sentence>
+      <sentence id="20">
+        <speaker name="P" />
+        <content value="ぴょん吉さん！？" />
+      </sentence>
+      <sentence id="21">
+        <speaker name="志保？" />
+        <content value="もち、なんで私より他の人に行ってるの？私がいくらでもそれくらい言ってあげるよ……「そらは、ももおねえちゃんのこと大好きなのら?」ほらもち？" />
+      </sentence>
+      <sentence id="22">
+        <speaker name="もちょ" />
+        <content value="そ、そら？" />
+      </sentence>
+      <sentence id="23">
+        <speaker name="恵美？" />
+        <content value="もちょ～私にも「ゆきよおねえちゃん?」って言って～！！" />
+      </sentence>
+      <sentence id="24">
+        <speaker name="P" />
+        <content value="……志保？恵美？" />
+      </sentence>
+      <sentence id="25">
+        <speaker name="ころあず" />
+        <content value="落ち着いてください、二人とも入れ替わってますから……とりあえず育ちゃんと桃子ちゃんは逃げて" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="育" />
+        <content value="う、うん" />
+      </sentence>
+      <sentence id="27">
+        <speaker name="桃子" />
+        <content value="行くよ育。あんな大人にだけはなりたくない……" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="P" />
+        <content value="……声優さんってぴょん吉さん込みでみんなこんな気持ち悪い人しかいないの？" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="ぴょん" />
+        <content value="私も！？私はそんなとこなかったでしょ！？" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="P" />
+        <content value="いや公式もち天キター！！！！！とか" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="ぴょん" />
+        <content value="…………" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="ころあず" />
+        <content value="自覚あったんですね" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="ぴょん" />
+        <content value="と、とにかく！ほらゆきねぇも天も、それはもちょだけどガワは星梨花だよ！" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="天" />
+        <content value="もちぃ～?……はっ……そうだった" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="ゆきよ" />
+        <content value="でも声はもちょ……" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="ころあず" />
+        <content value="そりゃもちょが声やってますからね" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="ゆきよ" />
+        <content value="ね？さあもちょ、ゆきよお姉ちゃんって" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="ぴょん" />
+        <content value="もちょ、あれ言えば一発だよ（ヒソヒソ）" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="もちょ" />
+        <content value="あれ？" />
+      </sentence>
+      <sentence id="40">
+        <speaker name=" " />
+        <content value="..." />
+      </sentence>
+      <sentence id="41">
+        <speaker name="もちょ" />
+        <content value="ゆきよさんゆきよさん" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="ゆきよ" />
+        <content value="なぁにもちょ～?" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="もちょ" />
+        <content value="(o・∇・o)ぜんぜんおもしろくない" />
+      </sentence>
+      <sentence id="44">
+        <speaker name="ゆきよ" />
+        <content value="あ&quot;あっ！" />
+      </sentence>
+      <sentence id="45">
+        <speaker name="P" />
+        <content value="恵、いやゆきよさん！？！？" />
+      </sentence>
+      <sentence id="46">
+        <speaker name="ぴょん" />
+        <content value="おー" />
+      </sentence>
+      <sentence id="47">
+        <speaker name="ころあず" />
+        <content value="前より威力上がってますね" />
+      </sentence>
+      <sentence id="48">
+        <speaker name="P" />
+        <content value="待って、血吐いてるけどいいの！？" />
+      </sentence>
+      <sentence id="49">
+        <speaker name="ぴょん" />
+        <content value="まあゆきねぇだし" />
+      </sentence>
+      <sentence id="50">
+        <speaker name="ころあず" />
+        <content value="青二プロの力を信じましょう" />
+      </sentence>
+      <sentence id="51">
+        <speaker name="P" />
+        <content value="えぇ……" />
+      </sentence>
+      <sentence id="52">
+        <speaker name="もちょ" />
+        <content value="あとはそら……は別にいいや(o・∇・o)" />
+      </sentence>
+      <sentence id="53">
+        <speaker name="天" />
+        <content value="え、もち？" />
+      </sentence>
+      <sentence id="54">
+        <speaker name="もちょ" />
+        <content value="そら、今のそらは志保ちゃんだから、一人でもやれるよね？" />
+      </sentence>
+      <sentence id="55">
+        <speaker name="天" />
+        <content value="もち？" />
+      </sentence>
+      <sentence id="56">
+        <speaker name="もちょ" />
+        <content value="一人でも、やれるよね？頑張ってね、そら？" />
+      </sentence>
+      <sentence id="57">
+        <speaker name="天" />
+        <content value="や&quot;ぁだぁ～！もちといっしょにいる～！！！！！！" />
+      </sentence>
+      <sentence id="58">
+        <speaker name="ころあず" />
+        <content value="天さん崩れ落ちた……" />
+      </sentence>
+      <sentence id="59">
+        <speaker name="ぴょん" />
+        <content value="公式もち天公式もち天公式もち天公式もち天公式もち天公式もち天公式もち天公式もち天公式もち天" />
+      </sentence>
+      <sentence id="60">
+        <speaker name="もちょ" />
+        <content value="ぴょんさん？" />
+      </sentence>
+      <sentence id="61">
+        <speaker name="P" />
+        <content value="気絶したゆきよさんと天さんは事務所に移動させてと……どうしよう" />
+      </sentence>
+      <sentence id="62">
+        <speaker name="ころあず" />
+        <content value="なんか事務所に戻るたびに被害大きくなってません？" />
+      </sentence>
+      <sentence id="63">
+        <speaker name="ぴょん" />
+        <content value="今なんて見たら杏奈以外全員入れ替わってたね" />
+      </sentence>
+      <sentence id="64">
+        <speaker name="P" />
+        <content value="百合子の声が震えてたな" />
+      </sentence>
+      <sentence id="65">
+        <speaker name="ぴょん" />
+        <content value="私声震えてないよ～" />
+      </sentence>
+      <sentence id="66">
+        <speaker name="ころあず" />
+        <content value="中身ぴょんさんだからか無駄にクオリティ高いですね" />
+      </sentence>
+      <sentence id="67">
+        <end type="1" value="7" />
+      </sentence>
+    </scene>
+    <scene id="7">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name=" " />
+        <content value="～その頃のミリオン某ライブレッスン場～" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="ぴょん？" />
+        <content value="わー、私なんか綺麗な人になってるー！" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="みっく？" />
+        <content value="ついに私もこちら側に……おお、大きい！成長を感じます！" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="ナンス" />
+        <content value="なんで私以外みんな変になってるの！？(*&gt;△&lt;)&lt;ナーンナーンっっ！！！" />
+      </sentence>
+      <sentence id="5">
+        <end type="1" value="8" />
+      </sentence>
+    </scene>
+    <scene id="8">
+      <info bkgrdname="room02" />
+      <sentence id="1">
+        <speaker name="ころあず" />
+        <content value="ていうか、ナンス以外全員入れ替わりって、戻る手段ほんとにどうするんですか？" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="ぴょん" />
+        <content value="私は、戻りたいかな" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="ころあず" />
+        <content value="ぴょんさん？てっきり美希とか真くんとかいるから残るっていうのかと" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="ぴょん" />
+        <content value="そっちもいいけど……ソロデビューとか5thとかやり残したことたくさんあるし、何よりこの世界は、未来たちが生きる世界だと思うから！" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="ころあず" />
+        <content value="ぴょんさん……" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="P" />
+        <content value="いい雰囲気のところ申し訳ないっすけど、今までの言動のせいでいいとかプラマイゼロですよ？" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="ころあず" />
+        <content value="とにかく、私もぴょんさんに賛成です！まだあっちでやりたいことたくさんありますし！" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="？？？" />
+        <content value="その言葉を待っておったぞ" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="？？？？" />
+        <content value="フォフォフォ" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="ぴょん" />
+        <content value="この声は……" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="ころあず" />
+        <content value="千早さんと春香さんに「似てる」声は……" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="のヮの" />
+        <content value="そう、私だ" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="ミンゴス" />
+        <content value="ミンゴスだ" />
+      </sentence>
+      <sentence id="14">
+        <speaker name="P" />
+        <content value="いやだからマジで誰！？" />
+      </sentence>
+      <sentence id="15">
+        <speaker name="P" />
+        <content value="えぇ……もうすでにだいぶこんがらがってるのにさらに人増えるの？" />
+      </sentence>
+      <sentence id="16">
+        <speaker name="ミンゴス" />
+        <content value="ああ大丈夫、この話してやよい愛でたらすぐ帰るから" />
+      </sentence>
+      <sentence id="17">
+        <speaker name="P" />
+        <content value="させねえよ？" />
+      </sentence>
+      <sentence id="18">
+        <speaker name="のヮの" />
+        <content value="この入れ替わりドッキリはハッチポッチの特典用に収録させていただいた" />
+      </sentence>
+      <sentence id="19">
+        <speaker name="ぴょん" />
+        <content value="ハッチポッチの？" />
+      </sentence>
+      <sentence id="20">
+        <speaker name="のヮの" />
+        <content value="そう、多分八月だか九月くらいに出るであろうハッチポッチフェスティバルのブルーレイ特典映像がこのドッキリなのだ！" />
+      </sentence>
+      <sentence id="21">
+        <speaker name="ぴょん" />
+        <content value="繪里子さんドッキリの範疇って知ってます？" />
+      </sentence>
+      <sentence id="22">
+        <speaker name="P" />
+        <content value="ハッチポッチって？" />
+      </sentence>
+      <sentence id="23">
+        <speaker name="ころあず" />
+        <content value="あっちでやったミリオンとasの皆さんのごった煮合同ライブです" />
+      </sentence>
+      <sentence id="24">
+        <speaker name="P" />
+        <content value="へー、俺らもやろっと" />
+      </sentence>
+      <sentence id="25">
+        <speaker name="ころあず" />
+        <content value="(いや普通に定期公演でいいでしょ)" />
+      </sentence>
+      <sentence id="26">
+        <speaker name="のヮの" />
+        <content value="この企画を通して、山崎のミリオンへの愛、面白反応、そして元の世界への思いを再発見した" />
+      </sentence>
+      <sentence id="27">
+        <speaker name="ころあず" />
+        <content value="大掛かりすぎません？" />
+      </sentence>
+      <sentence id="28">
+        <speaker name="ミンゴス" />
+        <content value="以上でこの企画は終了、今頃バックではまっすぐが流れてるから" />
+      </sentence>
+      <sentence id="29">
+        <speaker name="ぴょん" />
+        <content value="まっすぐが酷使されてる……" />
+      </sentence>
+      <sentence id="30">
+        <speaker name="のヮの" />
+        <content value="プロデューサーさん" />
+      </sentence>
+      <sentence id="31">
+        <speaker name="P" />
+        <content value="は、はい" />
+      </sentence>
+      <sentence id="32">
+        <speaker name="のヮの" />
+        <content value="迷惑かけてすいません" />
+      </sentence>
+      <sentence id="33">
+        <speaker name="P" />
+        <content value="いやいいよ、慌ただしかったけど楽しかった" />
+      </sentence>
+      <sentence id="34">
+        <speaker name="P" />
+        <content value="何やってんだど貧" />
+      </sentence>
+      <sentence id="35">
+        <speaker name="ミンゴスP" />
+        <content value="はぁ！？Dあるからな！！！！" />
+      </sentence>
+      <sentence id="36">
+        <speaker name="のヮの" />
+        <content value="みんなを元の世界に戻すのに少し時間がかかるから、その間もよろしく" />
+      </sentence>
+      <sentence id="37">
+        <speaker name="P" />
+        <content value="へ？" />
+      </sentence>
+      <sentence id="38">
+        <speaker name="ぴょん" />
+        <content value="繪里子さん、だいたいどのくらいですか？" />
+      </sentence>
+      <sentence id="39">
+        <speaker name="のヮの" />
+        <content value="だいたい3日くらい？" />
+      </sentence>
+      <sentence id="40">
+        <speaker name="ころあず" />
+        <content value="えー！！" />
+      </sentence>
+      <sentence id="41">
+        <speaker name="P" />
+        <content value="入れ替えるのはすぐなのに" />
+      </sentence>
+      <sentence id="42">
+        <speaker name="のヮの" />
+        <content value="オトナの事情だね、その間私たちもこっちにいるから" />
+      </sentence>
+      <sentence id="43">
+        <speaker name="ミンゴス" />
+        <content value="やよいー！！！今行くぞ！！！！" />
+      </sentence>
+      <sentence id="44">
+        <speaker name="ぴょん" />
+        <content value="あっミンゴスさんずるい、私もみきまこ！！みきまこ！！" />
+      </sentence>
+      <sentence id="45">
+        <speaker name="ころあず" />
+        <content value="ちょ、ぴょ、ミ、なんなんですかもー！！！！" />
+      </sentence>
+      <sentence id="46">
+        <speaker name="P" />
+        <content value="ころあずさん……お互い苦労してますね" />
+      </sentence>
+      <sentence id="47">
+        <speaker name="ころあず" />
+        <content value="ですね……" />
+      </sentence>
+      <sentence id="48">
+        <end type="100" value="1" />
+      </sentence>
+    </scene>
+    <scene id="9">
+      <info bkgrdname="room02" />
+      <sentence id="7" />
+      <sentence id="32">
+        <end type="1" value="10" />
+      </sentence>
+    </scene>
+  </chapter>
+</head>

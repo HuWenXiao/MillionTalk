@@ -1,0 +1,289 @@
+<head><!-- version 1.180126 -->
+	<chapter id = "1">  <!--章节以及章节ID-->
+		<scene id = "1">  <!--场景以及场景ID。场景划分以是否更换场景背景立绘为标准-->
+			<background>street01</background>  <!--该场景使用的背景资源-->
+			
+			<sentence id = "1"> <!--单句对话以及对话ID-->
+				<speaker> 春日 未来 </speaker>  <!--说出这句话的角色名-->
+				<midpic>Pictures/Character/Mirai/001</midpic><!--角色立绘资源-->
+				<!--不使用该标签表示清空。留空以表示内容与上一语句相同-->
+				<content>おはようございます！</content> <!--该句对话内容-->
+				<position>0</position> <!--说话者的立绘位置，0为中，-1为左，1为右-->
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker> 最上 静香 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<content>未来、おはようございます。</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>Do you know that...</content>
+				<position>-1</position>
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>Well...</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "5">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>jklglkerjglejgkgjkrgjklegjkeg</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "6">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>ajgkljlagjagjkljgkljglkejrgklm</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "7">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>aglkjwgkljgkl</content>
+				<position>-1</position>
+			</sentence>
+			
+			<sentence id = "8">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>qewroiqpoetiopqwtipotioptiqopipoiqpoiopeqyioperqypoieyopqrypqoyipoeyqiqpyoiqropyiqpoy</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "9">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>ipoeyqiqpyoiqropyiqpoy</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "10">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>qewroiqpoetiopqwtipotioptiqiqrkljljilhlhlgopyiqpo</content>
+				<position>0</position>
+			</sentence>
+
+			<sentence id = "11">
+				<speaker> 最上 静香 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>rtyurdhfdhfgntn</content>
+				<position>1</position>
+			</sentence>
+
+			<sentence id = "12">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>qpoetiopqwtipotiopyipoeyqiqpyoiq</content>
+				<position>0</position>
+			</sentence>
+
+			<sentence id = "13">
+				<speaker> 春日 未来 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>astqwyuyujbhuggf</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "14">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>pqwtipotioptiqopirypqoyipoeyqiqpyoiqropyiqpoy</content>
+				<position>0</position>
+			</sentence>
+
+			<sentence id = "15">
+				<speaker> 最上 静香 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Shizuka/001</rightpic>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>hsdrsjdtjjdtfh</content>
+				<position>1</position>
+			</sentence>
+
+			<sentence id = "16">
+				<speaker> 春日 未来 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Tsubasa/001</rightpic>
+				<content>ewroiqpoetiopqwtipotioptiqopirypqoyipoeyqiqp</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "17">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic>Pictures/Character/Mirai/001</leftpic>
+				<rightpic>Pictures/Character/Tsubasa/001</rightpic>
+				<content>pqwtipotioptiqopirypqoyipoeyqiqpyoiqro</content>
+				<position>1</position>
+			</sentence>
+
+			<sentence id = "18">
+				<speaker> 伊吹 翼 </speaker>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>opirypqoyipoeyqiqpyoiqropyiqpoypyiq</content>
+				<position>0</position>
+			</sentence>
+
+			<sentence id = "19">
+				<speaker> 伊吹 翼 </speaker>
+				<midpic>Pictures/Character/Tsubasa/001</midpic>
+				<content>pqwtipotioptiqopirypqoyipoeyqiqpyoiqropyiqpoypyiqpoy(scene1end)</content>
+				<position>0</position>
+			</sentence>
+			
+			<sentence id = "20"><!--章节结束节点的其他子节点留空，新增end节点以标示结束-->
+				<end>1</end> <!-- 1表示该场景结束，2表示该章节结束。默认均为跳转至该场景/章节id+1的下一个场景/章节 -->
+			</sentence>
+			
+
+			
+		</scene>
+		
+		<scene id = "2"> 
+			<background>square01</background>
+		
+			<sentence id = "1"> 
+				<speaker> 最上 静香 </speaker>  
+				<midpic>Pictures/Character/Shizuka/001</midpic>  
+				<content>2:Hello! It is nice to meet you.</content>
+				<position>0</position>
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker> 最上 静香 </speaker>
+				<midpic>Pictures/Character/Shizuka/001</midpic>
+				<content>2:XXXXXXXXXXXXXXXXXXXX!</content>
+				<position>0</position>
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker> 春日 未来 </speaker>
+				<leftpic>Pictures/Character/Shizuka/001</leftpic>
+				<rightpic>Pictures/Character/Mirai/001</rightpic>
+				<content>2:XXXXXXXXXXXXXXXXXXXXXXX.</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>2:XXXXXXXXXXXXXXXX</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "5">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>2:XXXXXXXXXXXXXXXXXXXXXXX.</content>
+				<position>1</position>
+			</sentence>
+
+			<sentence id = "6">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>2:XXXX</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "7">
+				<speaker> 最上 静香 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>2:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "8">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>2:XXXXXXXXXXXXXXXXXXXXXXX.</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "9">
+				<end>1</end>
+			</sentence>
+			
+		</scene>
+		
+		<scene id = "3"> 
+			<background>room02</background>
+		
+			<sentence id = "1"> 
+				<speaker> 伊吹 翼 </speaker>  
+				<leftpic>Pictures/Character/Tsubasa/001</leftpic>  
+				<content>3:XXXXXXXXXXXXXXXX.</content>
+				<position>-1</position>
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic>Pictures/Character/Mirai/001</rightpic>
+				<content>3:XXXXXXXXXXXXXXXXXXXX!</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>3:XXXXXXXXXXXXXXXXXXXXXXX.</content>
+				<position>-1</position>
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker> 春日 未来 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>3:XXXXXXXXXXXXXXXX</content>
+				<position>1</position>
+			</sentence>
+			
+			<sentence id = "5">
+				<speaker> 伊吹 翼 </speaker>
+				<leftpic></leftpic>
+				<rightpic></rightpic>
+				<content>3:XXXXXXXXXXXXXXXX</content>
+				<position>-1</position>
+			</sentence>
+
+			<sentence id = "6">
+				<end>1</end>
+			</sentence>
+		</scene>
+		
+	</chapter>
+</head>

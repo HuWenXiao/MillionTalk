@@ -1,0 +1,214 @@
+<head>
+  <intro author = "ExcelP" date = "2018.01.02" info = "second one."/>
+  <chapter id="1">
+    <scene id="1">
+      <info bkgrdname="" />
+      <sentence id="1">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/A/001" />
+        <position value="-1" />
+        <content value="jhsrtjdtj" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="B" />
+        <midpic name="Pictures/Character/B/001" />
+        <position value="0" />
+        <content value="drtjdrjdjtdfj" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="-1" />
+        <content value="Do you know that..." />
+      </sentence>
+      <sentence id="4">
+        <speaker name="B" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="1" />
+        <content value="Well..." />
+      </sentence>
+      <sentence id="5">
+        <speaker name="B" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="1" />
+        <content value="jklglkerjglejgkgjkrgjklegjkeg" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="B" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="1" />
+        <content value="ajgkljlagjagjkljgkljglkejrgklm" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="-1" />
+        <content value="aglkjwgkljgkl" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="B" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="1" />
+        <content value="qewroiqpoetiopqwtipotioptiqopipoiqpoiopeqyioperqypoieyopqrypqoyipoeyqiqpyoiqropyiqpoy" />
+      </sentence>
+      <sentence id="9">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/A/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="-1" />
+        <content value="ipoeyqiqpyoiqropyiqpoy" />
+      </sentence>
+      <sentence id="10">
+        <speaker name="C" />
+        <leftpic name="Pictures/Character/A/001" />
+        <midpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="0" />
+        <content value="qewroiqpoetiopqwtipotioptiqiqrkljljilhlhlgopyiqpo" />
+      </sentence>
+      <sentence id="11">
+        <speaker name="B" />
+        <leftpic name="Pictures/Character/A/001" />
+        <midpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="1" />
+        <content value="rtyurdhfdhfgntn" />
+      </sentence>
+      <sentence id="12">
+        <speaker name="C" />
+        <leftpic name="Pictures/Character/A/001" />
+        <midpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="0" />
+        <content value="qpoetiopqwtipotiopyipoeyqiqpyoiq" />
+      </sentence>
+      <sentence id="13">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/A/001" />
+        <midpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/B/001" />
+        <position value="-1" />
+        <content value="astqwyuyujbhuggf" />
+      </sentence>
+      <sentence id="14">
+        <end type="1" value="2" />
+      </sentence>
+    </scene>
+    <scene id="2">
+      <info bkgdname="square01" />
+      <sentence id="1">
+        <speaker name="B" />
+        <midpic name="Pictures/Character/B/001" />
+        <content value="2:Hello! It is nice to meet you." />
+        <position value="0" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="B" />
+        <midpic name="Pictures/Character/B/001" />
+        <content value="2:XXXXXXXXXXXXXXXXXXXX!" />
+        <position value="0" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/B/001" />
+        <rightpic name="Pictures/Character/A/001" />
+        <content value="2:XXXXXXXXXXXXXXXXXXXXXXX." />
+        <position value="1" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="B" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="2:XXXXXXXXXXXXXXXX" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="A" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="2:XXXXXXXXXXXXXXXXXXXXXXX." />
+        <position value="1" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="B" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="2:XXXX" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="B" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="2:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" />
+        <position value="-1" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="A" />
+        <leftpic name="" />
+        <rightpic name="" />
+        <content value="2:XXXXXXXXXXXXXXXXXXXXXXX." />
+        <position value="1" />
+      </sentence>
+      <sentence id="9">
+        <end type="1" value="3" />
+      </sentence>
+    </scene>
+    <scene id="3">
+      <info bkgrdname="square01" />
+      <sentence id="1">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/A/001" />
+        <position value="1" />
+        <content value="sfsergf" />
+      </sentence>
+      <sentence id="2">
+        <speaker name="B" />
+        <position value="1" />
+        <content value="cbncgncfgnfgn" />
+      </sentence>
+      <sentence id="3">
+        <speaker name="C" />
+        <position value="-1" />
+        <content value="gcbfbrd" />
+      </sentence>
+      <sentence id="4">
+        <speaker name="C" />
+        <position value="-1" />
+        <content value="234252" />
+      </sentence>
+      <sentence id="5">
+        <speaker name="A" />
+        <position value="1" />
+        <content value="jhfyjyjtyjty" />
+      </sentence>
+      <sentence id="6">
+        <speaker name="C" />
+        <position value="-1" />
+        <content value="fgjfgjctjtj" />
+      </sentence>
+      <sentence id="7">
+        <speaker name="A" />
+        <leftpic name="Pictures/Character/C/001" />
+        <rightpic name="Pictures/Character/A/001" />
+        <position value="1" />
+        <content value="4g3wgersg" />
+      </sentence>
+      <sentence id="8">
+        <speaker name="B" />
+        <position value="0" />
+        <content value="sfesf" />
+      </sentence>
+      <sentence id="9">
+        <end type="1" value="1" />
+      </sentence>
+    </scene>
+  </chapter>
+</head>

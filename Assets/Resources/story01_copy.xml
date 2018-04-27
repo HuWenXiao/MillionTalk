@@ -1,0 +1,1356 @@
+<!-- version 1.180312 by Excel -->
+
+<head>
+	<chapter id = "1">  
+		<scene id = "1">  
+			<info bkgrdname = "street01" musicpath = "Sound/BGM/daily01" musicvolume = "0.4" musicttl = "0" />  
+			
+			<sentence id = "1"> 
+				<speaker name = "未来on電話" />   
+				<position value = "0"/> 
+				<midpic name = "Pictures/Character/Mirai/001" />
+				<content value = "とーにーかーくー、静香ちゃんが大変なんです！" />
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker name = " P " />
+				<midpic name = "" />
+				<content value = "静香が？また急な、熱でも出したか？" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker name = " 未来 " />
+				<midpic name = "" />
+				<content value = "それは違うんですけど、なんかレッスン場に来たら変なんです！" />
+				<position value = "0" />
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker name = " P " />
+				<midpic name = "" />
+				<content value = "変？そーいや今日百合子とお前とレッスンだったっけ……とりあえず行ってみるから、静香と一緒に待っててくれ" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "5">
+				<speaker name = "" />
+				<content value = "静香が変って……まさか急にうどん派から冷麺派に鞍替えでもしたか？まあいいか、美咲ちゃーん、レッスン場行ってくるねー" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "6">
+				<speaker name = " 美咲 " />
+				<content value = "はーい！" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "7">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "Pictures/Character/Anna/001" />
+				<content value = "……百合子さん、いるよね？杏奈も行く" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "8">
+				<end type = "1" value = "2" /> 
+			</sentence>
+			
+		</scene>
+		
+		<scene id = "2"> 
+			<info bkgrdname = "street01" />
+		
+			<sentence id = "1"> 
+				<speaker name = " P " />  
+				<content value = "着いたわけだが" />
+				<position value = "0" />
+			</sentence>
+			
+			<sentence id = "2">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "Pictures/Character/Anna/001" />
+				<content value = "……着いた、けど" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = "3">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<content value = "なんじゃこりゃ" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = "4">
+				<speaker name = " 未来 " />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Mirai/001" />
+				<content value = "あ、プロデューサーさん！" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "5">
+				<speaker name = " 百合子 " />
+				<leftpic name = "Pictures/Character/Yuriko/001" />
+				<rightpic name = "" />
+				<content value = "大変ですよプロデューサーさん、未知との遭遇なんです！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "6">
+				<speaker name = " P " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "大変なのに目を輝かせて言うのかお前は" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "7">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<content value = "百合子さんがこうなるってことは……SF?コズミックホラー？" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "8">
+				<speaker name = " 百合子 " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "SF！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "9">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "……把握" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "10">
+				<speaker name = " P " />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<content value = "で、その静香なんだが" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = "11">
+				<speaker name = " 未来 " />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "" />
+				<content value = "そうなんですよ、静香ちゃんがこれで" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "12">
+				<speaker name = " 静香？ " />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Shizuka/001" />
+				<rightpic name = "" />
+				<content value = "なんなんですかここ……Machicoさんとご飯行くはずなのになんで未来ちゃん達が……なんか私最上ちゃんになってるしぃ……" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "13">
+				<speaker name = " P " />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "まちこ" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = "14">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "さん？" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "15">
+				<speaker name = " 百合子 " />
+				<leftpic name = "Pictures/Character/Yuriko/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "静香の知り合いですか？" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "16">
+				<speaker name = " 未来 " />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Mirai/001" />
+				<content value = "Machi……知らない人ですね" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "17">
+				<speaker name = " 静香？ " />
+				<midpic name = "" />
+				<content value = "プロデューサーさんですか？助けてください～！" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "18">
+				<speaker name = " P " />
+				<midpic name = "" />
+				<content value = "いやいや、俺にどうしろと、てかお前……静香か？" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "19">
+				<speaker name = " 静香？ " />
+				<midpic name = "" />
+				<content value = "最上ちゃんじゃないのに未来ちゃんが信じてくれないんです～！" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "20">
+				<speaker name = " 未来 " />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Mirai/001" />
+				<content value = "あれ、本当だったんだ、てっきり頭でも打ったのかなって" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "21">
+				<speaker name = " P " />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "それはいつものおまゲフンゲフン" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = "22">
+				<speaker name = " 杏奈 " />
+				<leftpic name = "Pictures/Character/Anna/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "…なんか百合子さん、説明" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "23">
+				<speaker name = " 百合子 " />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Yuriko/001" />
+				<content value = "うん、説明しよう！今日の朝一、レッスン場に来たらそこには静香の姿が、自分を『あずさ』と名乗る静香は別の世界から来たと言い張り……" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "24">
+				<speaker name = " P " />
+				<midpic name = "" />
+				<content value = "……静香、病院行くか？" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = "25">
+				<speaker name = " 静香？ " />
+				<midpic name = "" />
+				<content value = "だから本当に私は最上ちゃんじゃなくて！！" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = "26">
+				<speaker name = "未来" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<content value = "あのあの、プロデューサーさん、静香ちゃんの言うこと、信じてあげましょう！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = "27">
+				<speaker name = "杏奈" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<position value = "1" />
+				<content value = "……未来？" />
+			</sentence>
+			
+			<sentence id = "28">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "なんとなくですけど、本当だと思うんです！" />
+			</sentence>
+
+			<sentence id = "29">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "お前さっきまで信じてなかったよな" />
+			</sentence>
+
+			<sentence id = "30">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "それはころ……面白かったから～でへへ～" />
+			</sentence>
+
+			<sentence id = "31">
+				<speaker name = "静香？" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "未来ちゃん！？" />
+			</sentence>
+
+			<sentence id = "32">
+				<speaker name = "P" />
+				<midpic name = "" />
+				<position value = "-1" />
+				<content value = "と、ともかく。えっと、あずささん？こっちのあずささんと被るな……フルネームは？" />
+			</sentence>
+
+			<sentence id = "33">
+				<speaker name = "静香？" />
+				<midpic name = "" />
+				<position value = "0" />
+				<content value = "田所あずさ、です……" />
+			</sentence>
+
+			<sentence id = "34">
+				<speaker name = "P" />
+				<midpic name = "" />
+				<position value = "-1" />
+				<content value = "あーずん？" />
+			</sentence>
+
+			<sentence id = "35">
+				<speaker name = "杏奈" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<position value = "1" />
+				<content value = "……センスある" />
+			</sentence>
+
+			<sentence id = "36">
+				<speaker name = "百合子" />
+				<leftpic name = "Pictures/Character/Yuriko/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "あーずんでいいと思います！" />
+			</sentence>
+
+			<sentence id = "37">
+				<speaker name = "あーずん？" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "ちょっとちょっと、待ってください！それになっちゃうんですか！" />
+			</sentence>
+
+			<sentence id = "38">
+				<speaker name = "未来" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "えー、私はころあずって感じです！" />
+			</sentence>
+
+			<sentence id = "39">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "未来ちゃん……あの、私普段もころあずって呼ばれてたので、そっちの方がありがたいです……" />
+			</sentence>
+
+			<sentence id = "40">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "よかったね、ころあず……さん！" />
+			</sentence>
+
+			<sentence id = "41">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "うん……ありがとう未来ちゃん" />
+			</sentence>
+
+			<sentence id = "42">
+				<speaker name = "百合子" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "1" />
+				<content value = "しかし、静香ところあずさんの入れ替わり、ですか" />
+			</sentence>
+
+			<sentence id = "43">
+				<speaker name = "？？" />
+				<leftpic name = "Pictures/Character/Tsumugi/001" />
+				<position value = "-1" />
+				<content value = "事件のようですね！" />
+			</sentence>
+
+			<sentence id = "44">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<position value = "1" />
+				<content value = "この声は！" />
+			</sentence>
+
+			<sentence id = "45">
+				<speaker name = "杏奈" />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<position value = "1" />
+				<content value = "……紬、さん？" />
+			</sentence>
+
+			<sentence id = "46">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<position value = "2" />
+				<content value = "いや、それにしてはアホくさい声だ、なんか嫌な予感がする" />
+			</sentence>
+
+			<sentence id = "47">
+				<speaker name = "紬？" />
+				<leftpic name = "Pictures/Character/Tsumugi/001" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "この「ミリオン声優入れ替わり事件」私白石紬……担当声優南早紀に任せてください！" />
+			</sentence>
+
+			<sentence id = "48">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<position value = "1" />
+				<content value = "だめだー！一番ダメな人が来たー！" />
+			</sentence>
+
+			<sentence id = "49">
+				<speaker name = "百合子" />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Yuriko/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "へ？" />
+			</sentence>
+
+			<sentence id = "50">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "1" />
+				<content value = "この人私のこと格下に見てくるんですよ！『田所さんって普段何食べて生きてるんですかw』とか！" />
+			</sentence>
+
+			<sentence id = "51">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "2" />
+				<content value = "うわぁ" />
+			</sentence>
+
+			<sentence id = "52">
+				<speaker name = "唐揚げ" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "違います違います！ていうかその話は半年前に解決しましたよね！" />
+			</sentence>
+
+			<sentence id = "53">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "えっと、ころあず…さんと南ちゃんも知り合いなんですか？" />
+			</sentence>
+
+			<sentence id = "54">
+				<speaker name = "唐揚げ" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "というか仕事仲間、ですね" />
+			</sentence>
+
+			<sentence id = "55">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "1" />
+				<content value = "ミリオンライブ、って作品で声優をしてて…" />
+			</sentence>
+
+			<sentence id = "56">
+				<speaker name = "杏奈" />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Anna/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "……声優さん？" />
+			</sentence>
+
+			<sentence id = "57">
+				<speaker name = "百合子" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Yuriko/001" />
+				<position value = "1" />
+				<content value = "カッコいいです！" />
+			</sentence>
+
+			<sentence id = "58">
+				<speaker name = "唐揚げ" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "でしょ？(ドヤァ)" />
+			</sentence>
+
+			<sentence id = "59">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<position value = "1" />
+				<content value = "この人は……それで、私は最上ちゃんの役なんです！" />
+			</sentence>
+
+			<sentence id = "60">
+				<speaker name = "唐揚げ" />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "私は紬の役です" />
+			</sentence>
+
+			<sentence id = "61">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<rightpic name = "" />
+				<position value = "2" />
+				<content value = "？？？？？？" />
+			</sentence>
+
+			<sentence id = "62">
+				<speaker name = "未来" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "えっと、つまりこっちの世界での出来事がわた……ころあずの世界ではゲームとか漫画になってて、声を当ててるってことだと思う！ます！" />
+			</sentence>
+
+			<sentence id = "63">
+				<speaker name = "杏奈" />
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<position value = "1" />
+				<content value = "……パラレルワールド、だね？" />
+			</sentence>
+
+			<sentence id = "64">
+				<speaker name = "百合子" />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Yuriko/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "それで複数の人と入れ替わりが起きてる" />
+			</sentence>
+
+			<sentence id = "65">
+				<speaker name = "P" />
+				<midpic name = "Pictures/Character/Shizuka/001" />
+				<position value = "2" />
+				<content value = "ころあずさん、そっちのミリオンライブ？の声優さんは全部で" />
+			</sentence>
+
+			<sentence id = "66">
+				<speaker name = "ころあず" />
+				<midpic name = "Pictures/Character/Shizuka/001" />
+				<position value = "0" />
+				<content value = "39人です、先輩を入れると52人" />
+			</sentence>
+
+			<sentence id = "67">
+				<speaker name = "P" />
+				<midpic name = "" />
+				<position value = "-1" />
+				<content value = "ちょうど、か。杏奈百合子未来は無事として、他にも何か起きてそうだな" />
+			</sentence>
+
+			<sentence id = "68">
+				<speaker name = "未来" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<position value = "-1" />
+				<content value = "そうだ！ころあず、さんも歌上手いんですか？" />
+			</sentence>
+
+			<sentence id = "69">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<position value = "0" />
+				<content value = "え？えっと" />
+			</sentence>
+
+			<sentence id = "70">
+				<speaker name = "唐揚げ" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Tsumugi/001" />
+				<position value = "1" />
+				<content value = "上手だよ、すごく" />
+			</sentence>
+
+			<sentence id = "71">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "あなた勝手なことどんどん言いますね！" />
+			</sentence>
+
+			<sentence id = "72">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "私、ころあずの歌聴きたい！" />
+			</sentence>
+
+			<sentence id = "73">
+				<speaker name = "杏奈" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Anna/001" />
+				<position value = "1" />
+				<content value = "……未来、さん、取れてる" />
+			</sentence>
+
+			<sentence id = "74">
+				<speaker name = "百合子" />
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Yuriko/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "それに外側は静香だから静香の歌にしかならないよ…" />
+			</sentence>
+
+			<sentence id = "75">
+				<speaker name = "未来" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "でもでも、ころあずさんがどんな歌い方するのか見てみたいし……" />
+			</sentence>
+
+			<sentence id = "76">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "2" />
+				<content value = "そんなにころあずさんに迷惑かけるなよお前ら～。とりあえず南さんところあずさんは一度事務所に……南さん？" />
+			</sentence>
+
+			<sentence id = "77">
+				<speaker name = "唐揚げwith唐揚げ" />
+				<rightpic name = "Pictures/Character/Tsumugi/001" />
+				<position value = "1" />
+				<content value = "なんでふか～？" />
+			</sentence>
+
+			<sentence id = "78">
+				<speaker name = "P" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "唐揚げ？" />
+			</sentence>
+
+			<sentence id = "79">
+				<speaker name = "杏奈" />
+				<leftpic name = "Pictures/Character/Anna/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "……いつの間に" />
+			</sentence>
+
+			<sentence id = "80">
+				<end type = "1" value = "3" />
+			</sentence>
+
+		</scene>
+
+		<scene id = "3">
+			<info bkgrdname = "room02" />
+			
+			<sentence id = "">
+				<speaker name = "P" />
+				<position value = "2" />
+				<content value = "さて、杏奈百合子と唐揚げを事務所に置いて来たわけだが" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "ころあず" />
+				<midpic name = "Pictures/Character/Shizuka/001" />
+				<position value = "0" />
+				<content value = "プロデューサーさんも南ちゃんのこと唐揚げってよぶんですね" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "P" />
+				<midpic name = "" />
+				<position value = "2" />
+				<content value = "……まさか" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "ころあず" />
+				<midpic name = "" />
+				<position value = "0" />
+				<content value = "はい" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "未来" />
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<position value = "-1" />
+				<content value = "お前を唐揚げにしてやろうかぁ！！！" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "ころあず" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<position value = "0" />
+				<content value = "…………" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<position value = "2" />
+				<content value = "ころあずさん、その発言は否定して欲しかった" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "P" />
+				<leftpic name = "" />
+				<midpic name = "" />
+				<position value = "2" />
+				<content value = "まあ、とにかく、アイドル全員に連絡を取ったところ数名「様子が変」「タガが外れたよう」との連絡が来た。まずはここだな" />
+			</sentence>
+
+			<sentence id = "">
+				<speaker name = "ころあず" />
+				<midpic name = "" />
+				<position value = "0" />
+				<content value = "カラオケ、ですか？" />
+			</sentence>
+		
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<midpic name = "" />
+				<position value = "2" />
+				<content value = "ウィ" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<position value = "-1" />
+				<content value = "えっと、琴葉ちゃ、さん、エレナさん、翼、恵美さんがいますね！連絡して来たのはエレナさんです！" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<position value = "2" />
+				<content value = "この中の数人が入れ替わり被害に……" />
+			</sentence>
+	
+			<sentence id = ""> 
+				<speaker name = "琴葉？" />  
+				<rightpic name = "Pictures/Character/Kotoha/001" />
+				<position value = "1" />
+				<content value = "ねえねえ、次はこれ！この曲歌ってエレナ！！！！！！" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "エレナ" />  
+				<leftpic name = "Pictures/Character/Elena/001" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "コトハ、様子がおかしいヨ……" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "翼？" />  
+				<leftpic name = "" />
+				<midpic name = "Pictures/Character/Tsubasa/001" />
+				<rightpic name = "" />
+				<position value = "0" />
+				<content value = "うち次はこれ歌うけぇ、ゆきねぇと一緒に歌お？" />
+			</sentence>
+	
+			<sentence id = ""> 
+				<speaker name = "エレナ" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "-1" />
+				<content value = "だからゆきねぇって誰よ……お、プロデューサー！いやーまいったまいった、琴葉の様子がおかしくてさ" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "お前の隣にいるメイクが異様に濃い翼もな" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "はいとりあえず様子のおかしい二人正座" />
+				<position value = "2" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "琴葉？" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "エレナ～?" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "エレナ" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "正座ダヨ、コトハ" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "琴葉？" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "はい！" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "翼？" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "うちも？" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "ウィ" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "翼" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "大変不本意だが正座することにする" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "なにその言い回し" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "ま……翼と琴葉さんも入れ替わり、ですね？プロデューサーさん" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "だな、えっと、ころあずさん？" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "Pictures/Character/Shizuka/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "種ちゃんさんMachicoさん……なんで入れ替わってるのに普通にできてるんですか！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "種ちゃん" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "立ちくらみがしたと思ったらここにいて、エレナが隣にいたから……" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "Machico" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "起きたらツバッティーじゃったけぇ、折角じゃしこのままでいることにした" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "呑気ですね……" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<position value = "2" />
+				<content value = "なるほど、入れ替わっててもいつ入れ替わったかとかには差がある……あとミリオン声優？の皆さんが恐ろしくア……呑気で基本的に順応する" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "アホって言ってもいいですよ？私以外そんなに間違ってないんで" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "Machico" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "うちも！？ならあずあずもじゃ！" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "Machicoさんよりは頭いいですー！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "種ちゃん" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "いや二人ともトントンでしょ" />
+				<position value = "1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "うん……私もそう思います！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "Machico" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "ん？" />
+				<position value = "0" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "種ちゃんさんとMachicoさんたちはあそこで放置で良さそうだな" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<content value = "いいんですか…" />
+				<position value = "1" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "Machicoはともかく種ちゃんはエレナPだからエレナ大丈夫かな……" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "ん、未来何か言ったか？" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "い、いえなんでも！それより、次のところ行きましょう！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<content value = "あいあい、次はミルキーウェイのレッスンだな" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "Pictures/Character/Mirai/001" />
+				<content value = "美希が！！！！" />
+				<position value = "-1" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<content value = "未来！？" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "未来" />  
+				<leftpic name = "" />
+				<content value = "お、おっほん！とにかく行きますよ！ぴゅーん！" />
+				<position value = "-1" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "P" />  
+				<leftpic name = "" />
+				<content value = "待て未来お前場所わからないだろ！ころあずさん行きましょう！" />
+				<position value = "2" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "ころあず" />  
+				<leftpic name = "" />
+				<rightpic name = "Pictures/Character/Shizuka/001" />
+				<content value = "は、はい……あの未来ちゃん、やっぱり『あの人』だよね……" />
+				<position value = "1" />
+			</sentence>
+
+		</scene>
+				
+		<scene id = "4" >
+			<info bkgdname = "room01" />
+				
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+			
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = ""> 
+				<speaker name = "" />  
+				<leftpic name = "" />
+				<midpic name = "" />
+				<rightpic name = "" />
+				<content value = "" />
+				<position value = "" />
+			</sentence>
+
+			<sentence id = "6">
+				<end type = "1" value = "1" />
+			</sentence>
+		</scene>
+		
+	</chapter>
+</head>
